@@ -1,4 +1,4 @@
-# Project Overview
+# Overview
 This program provides numerical and analytical solutions for the energies at a few different potentials. The infinite well, harmonic 
 oscillator and the Woods-Saxon potential. It writes these solutions into files for each potential for a few different states.
  
